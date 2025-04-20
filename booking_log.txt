@@ -1,0 +1,3 @@
+New booking: Name: , Date: , Time: , Location: 
+New booking: Name: , Date: , Time: , Location: 
+New booking: Name: , Date: , Time: , Location: 
